@@ -1,4 +1,3 @@
-# GitHub
-I tried my best to recreate GitHubs website from scratch
+# GitHub Clone
 
-https://githubemploy.github.io/GitHub/
+HTML and CSS recreation of the GitHub web interface — built as a front-end development exercise.
